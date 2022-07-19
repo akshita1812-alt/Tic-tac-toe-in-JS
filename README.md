@@ -6,7 +6,7 @@ A SIMPLE TIC-TAC-TOE GAME IN JAVASCRIPT
 
 # Game Board
  
- ![Tic-Tac-Toe-JS](/image/tic-tac-toe-js.gif)
+ ![Tic-Tac-Toe-JS](tic-tac-toe-js(1).gif)
 
 
 (1) Grid layout
