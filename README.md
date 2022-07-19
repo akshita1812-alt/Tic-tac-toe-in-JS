@@ -8,7 +8,6 @@ A SIMPLE TIC-TAC-TOE GAME IN JAVASCRIPT
  
  ![Tic-Tac-Toe-in-JS](tic-tac-toe-js.gif)
 
-
 (1) Grid layout
 
 The game grid is represented in the array Grid.cells as follows:
